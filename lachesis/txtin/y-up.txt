@@ -1,0 +1,318 @@
+
+ Dear Mr De Morgan.  
+
+This is very mathematical weather.
+When one cannot exercise one's
+muscles out of doors, one is
+peculiarly inclined to exercise
+one's brains in-doors.
+Accordingly I have been
+setting vigorously to work
+again, with much satisfaction.
+
+But I am sorry to
+say that I am sadly obstinate
+ about the Term at which
+Convergence begins for the
+Series (A) page 231 of Algebra,
+and which we thought had 
+been made clear by you
+on Monday Evening . I must
+persist in thinking Convergence
+begins at 
+and I have enclosed my
+Demonstration of my view of
+the case, & which seems to
+me as clear as possible.    
+
+At any rate this will
+show you at once where my
+blunder is; if I have
+blundered, for I can hardly
+think I have, so very palpable
+does the proof appear to me.
+
+The other night I had
+unluckily been 10 days or
+more without thinking about
+anything of the kind, and
+consequently the  thread of the
+argument was not present to
+me; or I might have
+spared you & myself this
+trouble now.     
+I have thought with much
+pleasure of my agreeable
+evening on Monday,     
+mathematical & educational.
+
+Yours most truly
+
+A. A. Lovelace
+
+Dear Mr De Morgan
+
+Will you send on the
+enclosed to Mrs De Morgan.  It
+explains the arrangements I have
+made in case she comes here,
+& also that Lord L & myself
+have delayed our own departure
+until Satdy next.  Our household
+& children however are already
+gone.
+
+Now to mathematical business :
+I think you have hit the right
+nail on the head, altho' my
+confused notion of Differentials was
+ not the only piece of puzzle &
+mistiness which constituted the
+impediments towards my comprehension
+of Xdudx+Ydudy=UXdudx+Ydudy=U .  The rectification of this however, has I
+believe given me the key to the
+remaining difficulties.  If you
+will be kind enough to read
+the enclosed observations,
+you will be able to judge how
+far I now take a just view
+of the matter.
+
+I find that when (a long time
+ago) I studied Chapter V, I
+never gave due importance to
+the conclusion
+
+ Δ.u = dudx1Δx1 + dudx2Δx2 + dudx3Δx3 + &cΔ.u = dudx1Δx1 + dudx2Δx2 +d udx3Δx3 + &c
++{(Δx)2,(Δx1Δx2),&c,&c} + {(Δx)2,(Δx1Δx2),&c,&c} 
+
+deduced at the bottom of page 87,
+as the result of pages 86, 87.  My
+whole attention was given to the
+subsequent theorem of page 90,
+''If u be a function of t in different
+ways'', which I conceived to be the only object in
+view, & that the equation of
+page 87 was of no consequence
+in itself, but merely means to
+an end.  This seems to have been
+an egregious blunder, since the
+whole theory of Differentials
+rests on the very part which
+I  neglected, from a merely subsidiary
+theory.  I believe I am not wrong
+in this present view of the
+matter.
+
+I cannot help here remarking
+a circumstance which I ['believe' crossed out] think is
+almost invariably true respecting
+all my difficulties & confusions
+in studying.  They are without any
+ exception that I can recall , from
+misapprehension of the meaning
+of some symbol, or  some phrase
+or definition; & on no occasion
+from either any error in my
+reasoning, or any difficulty in
+carrying on chains of deductions
+correctly, however complicated or
+profound or lengthy.  I therefore
+have lately begun to ask myself,
+whenever I am stopped, whether
+I clearly understand what the
+subjects of the reasoning are; &
+to go carefully over every verbal
+& symbolic representative of a
+thing or an idea, with the
+question respecting each, ''now what
+does it mean, & how was it got?
+Am I sure of this, in each instance
+involved in the subject?''  This
+may save me much future trouble.
+
+I will send you my remarks tomorrow,
+as I want to look
+over them once more
+first; & today I
+have had enough of
+these subjects.
+
+ Yours very truly
+
+ A.A.L
+
+Dear Mr De Morgan.  
+
+Had I
+waited a day or two longer,
+I need not have troubled
+you with my letter of Weddy,
+& I can only reproach
+myself now with having been
+a little too hasty\, in my
+examination of the Theorem in
+pages 68, 69, and having
+sent you an enquiry which
+certainly indicates some
+negligence.  I fear this letter
+ may not be in time to
+stop one from you. [something crossed out]
+However I will try to
+send it by an opportunity this
+afternoon.
+But, to show you that I
+now understand the matter
+completely :
+
+In the first place the question
+of the Denominator, or the
+Numerator, being all of the
+same sign, in such [something crossed out] collection of
+expressions as
+a−bm−na−bm−n, c−ap−mc−ap−m, d−cr−pd−cr−p, e−dq−re−dq−r &c
+has nothing whatever to do
+with the letters effacing each
+other when the above are
+ put into the form,
+(a−b)+(c−a)+(d−c)+(e−d)(m−n)+(p−m)+(r−p)+(q−r)(a−b)+(c−a)+(d−c)+(e−d)(m−n)+(p−m)+(r−p)+(q−r) &c;
+whether (a−b)(a−b), &c be positive
+or negative, or some one &
+some the other, still
+a−b+c−a+d−c+e−dm−n+p−m+r−p+q−ra−b+c−a+d−c+e−dm−n+p−m+r−p+q−r &c
+must =e−bq−n=e−bq−n 
+
+In the second place, the
+Denominator must be all of
+the same sign, in order
+to fulfil the conditions of
+the Lemma in page 48;
+& this is the reason why
+the condition is made respectively
+ψ xψ x always increasing or
+always decreasing.
+For φ xφ x, it matters not
+whether it alternately increases
+& decreases (provided always
+that it be continuous).
+
+I believe I now
+have the whole quite clear;
+& I shall be more careful
+in future.
+I enclose a paper upon
+pages 70, 71, 72, 73.
+It is merely the general
+argument, put into my own
+order & from; & I send
+it in order to know if
+you think I understand as
+much about the matter as
+ I am intended to do.
+You know I always have
+so many metaphysical
+enquiries & speculations which
+intrude themselves, that I
+never am really satisfied
+that I understand anything;
+because, understand it as
+well as I may, my
+comprehension can only be
+an infinitesimal fraction of
+all I want to understand
+about the many connexions
+& relations which occur to
+me, how the matter in
+question was first thought of
+ or arrived at, &c, &c.
+I am particularly curious
+about this wonderful Theorem.
+However I try to keep
+my metaphysical head in
+order, & to remember Locke's
+two axioms.
+You should receive this about
+6 o'clock this evening, if not
+before.  I fear you will
+have written to me today
+however.  Believe me
+
+ Yours most truly
+
+ A. A. Lovelace
+
+ Dear Mr De Morgan.  I have rather a large batch now for you altogether. I am in the middle of the article on Negative & Impossible Quantities; & I have a question to put on 
+(a+kb)
+m+nk = εA
+cosB+k
+εA .sinB
+(a+bk)m+nk=εAcos⁡B+k
+εA.sinB &c
+ I have tried a little to demonstrate this Formula; but before I proceed further in spending more time upon it, I think I may as well ask if it is intended to be demonstrable by the Student.  For you know I sometimes try to do more than anyone means me to attempt. I have as yet only got thus far [something crossed] with the above formula : If in 
+
+(a+bk)
+m+nk (a+bk) m+nk,
+r is given = a2 + b2
+√ = a2 +b2, 
+tanθ = ba
+
+tan⁡θ=ba; then 
+sinθ=b
+sin⁡θ=b 
+  
+cosθ=a
+cos⁡θ=a  and 
+(a+bk)
+m+nk
+=(cosθ+k.sinθ)
+m+nk = (a+bk) m+nk = (cos⁡θ+k.sinθ) m+nk =(εkθ)
+m+nk = εk(mθ)× {εk(nθ)}
+k =(εkθ) m+nk = εk (mθ) × {εk(nθ)} k 
+or =(cos.mθ+k.sin.mθ)×(cos.nθ+k.sin.mθ)
+k =(cos.mθ+k.sin.mθ)×(cos.nθ+k.sin.mθ)k, 
+
+and I dare say that from some of these transformations, the Second Side of the given equation, with the determination of AA and BB, may be deduced.  But it appears to me 'it must be' a very complicated process; & therefore I should like to know before I undertook it, that I was not wasting time doing so.
+ 2dly : I am plagued over page 135 of the Calculus. It is not that there is any one thing in it which I do not clearly see.  But it is the depth of the whole argument which I cannot manage to discover. I should say that whole argument from ''We now know c'' page 134, to ''We can therefore take a function,''
+which, for a particular value of x.
+It seems to me all to be much ado about nothing; and I do not see what is arrived at by means of it.  A very complicated process appears to be used in the 1st Paragraph of page 135, to prove that when hh is small then the Increment in φx is very nearly represented by φa+h which was already shown in page 134.  And then suddenly in the Second Paragraph the Formula 
+φa+φ
+a (x−a) + φa+φ′a(x−a)+ 
+φa(x−a)2
+
+is introduced, & I do not understand quoi bon the closing conclusion drawn from it.
+
+3dly : I am not sure that I agree to what you say in preference (for ascertaining Maxima & Minima) of the direct ascertainment of \ the value of φφ\) x\), over the ordinary method.  Because it seems to me in many cases impossible after you have determined 
+0 or α values of φx, to determine further that the sign does change at them & how it changes, unless by means of the ordinary rule.  I have written out and enclose an example from Peacock, in which unless I had used the ordinary rule, after I had determined values for φx, I should have been at my wits' end how to bring out the conclusion.
+
+4thly : I send you a little Maxima & Minima Theorem of my own, which occurred to me by accident; It is for φx = x2 − mx φx=x 2−mx.  
+
+After proving it by the Differential Calculus, I have given a direct proof of another sort.  I merely wrote this, because it occurred to me; but it gave me a great deal of trouble, & I think was rather a work of supererogation; but I believe it is quite correct.  You will find enclosed in the same sheet the demonstration of ''What is the number whose excess above it's Square Root is the least possible?'' (see page 133 of the Calculus); and on the reverse side of this latter [something crossed out] is the ''verification round the 4 Right Angles'' for the continual increase together of x and it's [sic] tangent.  But here I have something further to add.  In this Chapter VIII, we hear of Differential Co-efficient which become = 0, or =α.  In this very instance, 
+1 + tan
+2 x 1 + tan
+2x is alternately = 1, and =α. Now according to my previous ideas, the terms Differential Co-efficient was only applied to some finite quantity; and referring to pages 47, 48, where one acquired one's first ideas of a Differential Co-efficient, I think it is there clearly explained that the term is only used with reference to a finite limit.  But in this Chapter VIII, there seems to be a considerable extension of meaning on the subject.
+ 5thly .  In page 132, it is very clearly deduced that the Ratio of a Logarithm to it's number is increasing as long as x is <ε, and afterwards decreases.
+The proof is most obvious.  But, unluckily, the conclusion seems to me to be contrary to the fact; at least the first half of the conclusion, not the latter half.
+On this principle : from the very nature of a Logarithm, it is obvious that (\) x\) being >ε, for equal increments to the log,x, there will be larger & larger Increments to x.  The one being in arithmetical, the other in geometrical progression. Therefore clearly the Ratio of the Logarithm to the number, is a diminishing one.  But then the same thing seems to me to apply when x<\varepsilon\).  
+Surely there is then just the same arithmetical & geometrical progression for equal Increments of the Logarithms.  I suppose there is some link that I have over-looked. I send you two Integrations worked out.  They are from Peacock.  I in vain spent hours over the one marked 2, of which I could make nothing by any method that I devised; until in despair, I looked thro' your Chapter XIII to see if I could there find any hints; & accordingly at page 277, I found a general formula which included this case.  But I do not believe I should ever have hit upon it by myself. The Integral marked 1, might of course be proved also in the same way; tho' the method is sufficient in this instance.
+I have written out no more papers on Forces.  In fact there is only one more that is left for me, viz: 
+f = v
+dv
+ds
+f = vdvds.  
+
+And for this I seeno occasion; for I am sure that I must thoro'ly understand it, after all I have written. I quite see your remarks on my having treated Acceleration of Velocity as being identical with Force; whereas, (as I now understand it), it is simply the measure of Force, & our only way of getting at expressions for this latter.  On the subject of 
+v2 = 2∫fds+C
+v2 = 2
+∫fds+C; 
+I have considered it a greatdeal; and any direct demonstration of it, after the manner of my other papers, seems to me to be quite impracticable.  Neither 
+∫v.dv
+∫v.dv, nor 
+∫f.ds
+∫f.ds  now appear to me to have any actual proto-types in the real motion.  Here then suggests itself to me the question : ''then are there certain truths & conclusions which can be arrived at by pure analysis, & in no other way?''  And also, how far abstract analytical expressions must express & mean something real, or not.  In short, it has suggested to me a good deal of enquiry, which I am desirous of being put in the way of satisfying. By the bye, I fear that one little paper of mine dropped out of the last packet.  It was a little pencil memorandum on 
+∫f.ds
+∫f.ds; 
+& there were remarks upon it, (if you remember) in my accompanying letter.  It bears upon the above question. I could write it out again, if it has been lost.
+ 
+Is not this a budget indeed?
+Yours most truly
+A. A. Lovelace
