@@ -34,13 +34,8 @@ import sys,random,combine
 
 # For tweeting
 def sometimes(lst):
-    try:
-    	api.update_status(status=generate_post(lst))
-    	print("posting")
-    except: 
-    	True
-    	print("something happened")
-
+    api.update_status(status=generate_post(lst))
+    print("posting")
 
 #for text display
 def goodInt(x):
